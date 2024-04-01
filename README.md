@@ -59,7 +59,7 @@ Devo salientar que os dados coletados e analisados do sistema DATASUS ainda poss
 
 O suicídio é um problema de saúde pública, com impactos em toda a sociedade... "Se precisar, peça ajuda!" O telefone 188 do Centro de Valorização da Vida está disponível 24 horas por dia. 
 
-E que para além dos dados e informações, possamos oferecer uma escuta sem pressa, sem banalizar o sofrimento de ninguém.
+E que para além dos dados e informações, possamos oferecer uma escuta sem pressa, sem banalizar o sofrimento do outro.
 
 As informações aqui expostas visam contribuir como parte de estratégias para prevenção do suicídio.
 
