@@ -37,6 +37,8 @@ Os dados estavam disponíveis no formato CSV para cada ano e utilizei a linguage
 5. Pré-processamento dos dados, respeitando o objetivo do projeto que é a criação de visualizações, criando alguns novos atributos a exemplo do mês do óbito que é um dado revelante à analise (split da "data do óbito"). Além de substitutir as várivaies que apresentam códigos pela abreviação ou descrição respectiva (raça, gênero, estado civil) a fim de facilitar as visualizações. 
 6. Comunicação e apresentação dos resultados através de gráficos e story telling através de relatório. No entanto, também foi gerado um CSV resultante para novas visualizações utilizando o Power BI.
 
+![Alguns Insights](https://media.licdn.com/dms/image/D4D22AQERYWdr3h5dhQ/feedshare-shrink_2048_1536/0/1696468889350?e=1714608000&v=beta&t=HnRPr1mJ4jF5QPbj4tMhzK7qCA7VO0kKcxWDu5X4zrA)
+
 ### Status do Projeto
 Versão 1.0
 
@@ -61,7 +63,9 @@ E que para além dos dados e informações, possamos oferecer uma escuta sem pre
 
 As informações aqui expostas visam contribuir como parte de estratégias para prevenção do suicídio.
 
-![Alguns Insights](https://media.licdn.com/dms/image/D4D22AQERYWdr3h5dhQ/feedshare-shrink_2048_1536/0/1696468889350?e=1714608000&v=beta&t=HnRPr1mJ4jF5QPbj4tMhzK7qCA7VO0kKcxWDu5X4zrA)
+![Alguns Insights](https://media.licdn.com/dms/image/D4D22AQGCgwEE6d0tJw/feedshare-shrink_2048_1536/0/1696468889193?e=1714608000&v=beta&t=gGVvHqJAq28hNu76YVzI_MbTlM1pq4roq4w8RCzQWMw)
+
+![Alguns Insigths](https://media.licdn.com/dms/image/D4D22AQEp9DTaThzLqw/feedshare-shrink_2048_1536/0/1696468889132?e=1714608000&v=beta&t=nD0NvdXlLxc1zeJQjFl37pKbKjD3tdPH1xcquTqE1b4)
 
 ### Contato
 LinkedIn: ana-paula-barros-ramos-22a80a198
