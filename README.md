@@ -61,5 +61,7 @@ E que para além dos dados e informações, possamos oferecer uma escuta sem pre
 
 As informações aqui expostas visam contribuir como parte de estratégias para prevenção do suicídio.
 
+![Alguns Insights](https://media.licdn.com/dms/image/D4D22AQERYWdr3h5dhQ/feedshare-shrink_2048_1536/0/1696468889350?e=1714608000&v=beta&t=HnRPr1mJ4jF5QPbj4tMhzK7qCA7VO0kKcxWDu5X4zrA)
+
 ### Contato
 LinkedIn: ana-paula-barros-ramos-22a80a198
